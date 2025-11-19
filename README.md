@@ -75,7 +75,7 @@ To assess the security risks of all applications and recommend whether they shou
 
 | Severity | Count | Key Issues |
 |----------|-------|------------|
-| **High** | 22 | Weak crypto, SQL injection, hardcoded secrets |
+| **High** | 2 | Weak crypto, SQL injection, hardcoded secrets |
 | **Medium** | 33 | Excessive permissions, sensitive data logs |
 | **Low/Info** | 12 | Firebase tracker |
 
@@ -88,7 +88,7 @@ To assess the security risks of all applications and recommend whether they shou
 
 | Severity | Count | Key Issues |
 |----------|-------|------------|
-| **High** | 88 | Insecure WebView, missing AppLink verification, weak crypto |
+| **High** | 8 | Insecure WebView, missing AppLink verification, weak crypto |
 | **Medium** | 35 | Insecure storage, RNG issues |
 | **Low/Info** | 77 | 11 third-party trackers |
 
