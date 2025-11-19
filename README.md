@@ -1,5 +1,6 @@
 # 🔐 Mobile & Payment App Security Assessment  
-**Threat Modeling | SAST | DAST | Risk Analysis**  
+**Threat Modeling | SAST | DAST | Risk Analysis**
+
 *(screenshots have been attached to this readme, in the event they don't load properly, kindly check the images folder)*
 ---
 
