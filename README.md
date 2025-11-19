@@ -1,6 +1,6 @@
 # 🔐 Mobile & Payment App Security Assessment  
 **Threat Modeling | SAST | DAST | Risk Analysis**  
-
+*(screenshots have been attached to this readme, in the event they don't load properly, kindly check the images folder)*
 ---
 
 ## 📌 Background
@@ -51,6 +51,10 @@ To assess the security risks of all applications and recommend whether they shou
 - DMZ ↔ Internal Zone  
 - Internal ↔ High-Sensitivity Enclave (Vault)
 
+![TMT Diagram](images/Task_1_TMT_screenshot.png)
+
+![TMT Report](images/CGL_Wellness_Full_Report.htm)
+
 ---
 
 ### 📊 STRIDE Threat Summary
@@ -82,6 +86,18 @@ To assess the security risks of all applications and recommend whether they shou
 📌 **Risk Score:** 48/100 (Grade B)  
 🚨 **Conclusion:** **No-Go** – Requires remediation.
 
+![WeCare](images/1.png)
+
+![Wellness Corner](images/2.png)
+
+![Wellness Corner](images/3.png)
+
+![Wellness Corner](images/4.png)
+
+![Wellness Corner](images/5.png)
+
+![Wellness Corner](images/6.png)
+
 ---
 
 ### Wellness Corner App (v6.9) – Results
@@ -94,6 +110,7 @@ To assess the security risks of all applications and recommend whether they shou
 
 📌 **Risk Score:** 45/100 (Grade B)  
 🚨 **Conclusion:** **No-Go** – Severe privacy/compliance concerns.
+
 
 ---
 
